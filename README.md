@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋 I'm Akhil<h1>
   
-<h2 align="center">A coding enthusiast from IIT Madras</h2>
+<h2 align="center">An ML enthusiast from IIT Madras</h2>
   
-- 🔭I am a coding hobbyist who wants to explore all areas of software development. I have done electronics projects before with Arduino and ESP32 and have coded in Python and C.
+- 🔭I am a coding hobbyist who wants to explore data science. I have done electronics projects before with Arduino and ESP32 and have coded in Python and C.
   
-- 🌱I am currently into web development and learning frontend React.js.
+- 🌱I am currently into Machine Learning.
   
 - 👨‍💻My projects are available at https://github.com/Akhil076/
   
